@@ -15,26 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-# Ciao, sono Enrico! 👋
+# Hi, I'm Enrico! 👋
 
-Benvenuto nel mio profilo GitHub! 😊
-
-- 🧑‍💻 **Sviluppatore software** con passione per le nuove tecnologie.
-- 🚀 **Appassionato di open-source** e sempre alla ricerca di nuove sfide.
-- 🌱 Attualmente sto imparando **Machine Learning** e **Data Science**.
-- 🔭 Sto lavorando su diversi progetti in Python e Matlab.
+- 🚀 PhD in **Physics**, always looking for new challenges.
+- 🌱 Currently learning **Machine Learning** and **Data Science**.
+- 🔭 Working on different projects using Python and Matlab.
 - 📫 Puoi contattarmi su [LinkedIn](https://www.linkedin.com/in/enricotrotti) o inviarmi un'email a **trottienr@gmail.com**.
 
 ---
 
 -->
-## Statistiche del mio profilo GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enricotrotti&show_icons=true)
 
 
 ---
 
-### Repository interessanti
+### Interesting Repos
 
 
