@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ---
 
-### Interesting Repositeries
+### Interesting Repos
 
 
