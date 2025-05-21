@@ -6,6 +6,14 @@
 - 🔭 Working on different projects using Python and Matlab.
 - 📫 You can contact me at [LinkedIn](https://www.linkedin.com/in/enricotrotti) or **trottienr@gmail.com**.
 
+### Interesting Repos
+
+-  **Tokamak_disruption**  https://github.com/enricotrotti/Tokamak_disruption
+-  **Quark_propagator**   https://github.com/enricotrotti/quark_propagator
+-  **Flask_project**   https://github.com/enricotrotti/Flask_project
+
+
+
 <!--
 **enricotrotti/enricotrotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Interesting Repos
 
 ---
 
